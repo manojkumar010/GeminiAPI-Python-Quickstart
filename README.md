@@ -38,8 +38,7 @@ Contributions are welcome! Please read the contribution guidelines for more info
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
-- Your Name - Manoj Kumar
-- 
+- Manoj Kumar: [LinkedIn](https://www.linkedin.com/in/iam-manoj/) 
 
 ---
 
